@@ -177,6 +177,112 @@ Cuando necesitamos un código que no requiera tanto de funcionalidades de la má
 
 Trabajar con el enfoque orientado a objetos es más fácil para representar cosas del mundo real , mientras que los enfoques imperativo y funcional son más simples y rápidos para tareas pequeñas, pero pueden volverse complicados en proyectos grandes.
 
+## 5. Herramientas de desarrollo
+
+### 5.1. Primera parte
+
+##### Respecto a las proceso de creación de software identifica un conjunto de herramientas a usar.
+
+#### 5.1.1. ¿Qué hace cada una de las herramientas?
+
+Editores de texto: Los editores de texto permiten escribir y editar , ofreciendo funciones como resaltado de sintaxis, autocompletado, búsqueda y reemplazo, y soporte para múltiples archivos.
+
+Compiladores: Los compiladores traducen a código máquina para que el programa se ejecute.
+
+Intérpretes: Los intérpretes ejecutan el código directamente línea a línea
+
+Herramientas de documentación: Las herramientas de documentación ayudan a crear y organizar la información sobre un trabajo de software, haciendo que sea más fácil entender y usar el código.
+
+Depuradores: Los depuradores son herramientas que permiten encontrar y corregir errores en el código.
+
+Sistema de gestión de versiones: Los sistemas de gestión de versiones son herramientas que permiten a los programadores llevar un registro de los cambios en el código.
+
+Frameworks: Un framework es un conjunto de herramientas y bibliotecas con una estructura predefinida para desarrollar aplicaciones.
+
+Herramientas para pruebas y calidad de código: Las herramientas para pruebas y calidad de código ayudan a asegurar que el software funcione correctamente.
+
+#### 5.1.2. ¿Qué tipo de tareas facilita?
+
+Compilador: Un compilador combierte código fuente a código máquina.
+
+Intérprete: Un intérprete es una herramienta que ejecuta el código fuente directamente.
+
+Herramientas de documentación: Las herramientas de documentación son aplicaciones que ayudan a crear y organizar información sobre un trabajo de software
+
+Depurador:Un depurador es una herramienta que permite a los programadores encontrar y corregir errores en el código.
+
+Sistema gestor de versiones: fUn sistema gestor de versiones es una herramienta que permite a los programadores rastrear cambios en el código.
+
+Framework: Un framework es un conjunto de herramientas y bibliotecas que proporciona una estructura predefinida para el desarrollo de aplicaciones.
+
+#### 5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?
+
+Compilador: Un compilador se diferencia por su capacidad de traducir todo el código fuente a código máquina en una sola operación.
+
+Interprete: Un intérprete se caracteriza por ejecutar el código fuente línea por línea.
+
+Herramientas de documentación: Las herramientas de documentación se destacan por permitir la creación y organización fácil de información.
+
+Depurador: Un depurador se caracteriza por permitir a los programadores ejecutar el código paso a paso.
+
+Sistema gestor de versiones: Un sistema gestor de versiones se distingue por permitir el seguimiento de cambios en el código.
+
+Framework: Un framework se caracteriza por ofrecer una estructura predefinida que guía el desarrollo de aplicaciones.
+
+Herramientas para pruebas de calidad del código: Las herramientas para pruebas de calidad del código se caracterizan por permitir la automatización de pruebas
+
+#### 5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?
+
+El compilador, es simple ya que con unos comandos podemos compilar nuestro archivo en segundos, y me gusta mucho ya que a la hora de compilarlo podemos ver si nuestro código posee algún error.
+
+#### 5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?
+
+GCC, ya que es un compilador es una herramienta que traduce el código fuente escrito en lenguajes como C o C++ a código máquina
+
+#### 5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?
+
+En el compilador me encontré un problema ya que la mayoría solo sirve para un solo lenguaje.
+
+### 5.2. Segunda parte
+
+##### Céntrate en una herramienta dentro de la misma categoría y compárala con otras:
+
+#### 5.2.1. ¿Qué herramienta se considera más útil y por qué?
+
+El git, porque de esta manera podemos guardar, enviar o exportar datos desde nuestra terminal.
+
+#### 5.2.2. ¿Qué ventajas tiene una sobre la otra?
+
+El tiempo que podemos tardar en hacer una u otra.
+
+#### 5.2.3. ¿Cuál herramienta resultó ser la más intuitiva y por qué?
+
+El git, ya que en muchos caso es obvio lo que hay que escribir en dicho comando.
+
+#### 5.2.4. ¿En qué casos se recomendaría usar un compilador en lugar de un intérprete?
+
+Cuando el código lo permita y si nosotros lo queremos más optimizado.
+
+#### 5.2.5. ¿Qué tipo de proyectos se beneficiarían más de un framework como Django?
+
+Django es ideal para proyectos web que necesitan funcionalidad rápida, seguridad, escalabilidad y gestión de datos complejos.
+
+### 5.3. Reflexión final
+
+##### Con base en la experiencia de evaluación de las herramientas:
+
+#### 5.3.1. ¿Cómo crees que impacta la elección de la herramienta en la calidad del software?
+
+Si, ya que según que erramienta utilizemos, el programa tardará más en ejecutarse, entre otras muchas.
+
+#### 5.3.2. ¿Qué características buscarías en una herramienta para facilitar tu flujo de trabajo?
+
+Rapidéz y facilidad.
+
+#### 5.3.3. ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?
+
+Aprendizaje y empleabilidad en distintas circunstancias.
+
 
 
 ### Código Fuente
@@ -196,8 +302,9 @@ Trabajar con el enfoque orientado a objetos es más fácil para representar cosa
 ## Conclusiones
 [Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
 
-## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
+## BIBLIOGRAFÍA
+[https://revilofe.github.io/section3/u01/](https://revilofe.github.io/section3/u01/)
+[https://www.algoritmosalvaje.com/introduccion-entornos-desarrollo/](https://www.algoritmosalvaje.com/introduccion-entornos-desarrollo/)
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
